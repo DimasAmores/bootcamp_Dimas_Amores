@@ -12,12 +12,12 @@ Bienvenid@s al repositorio principal del Bootcamp Online de AI Engineering de Th
 
 El repositorio se divide en los siguientes módulos principales:
 
-1. Módulo 1
-2. Módulo 2
-3. Módulo 3
-4. Módulo 4
-5. Módulo 5
-6. Módulo 6
+1. Python + IA Generativa
+2. Prompt & Context Engineering
+3. Arquitecturas y Modelos de IA
+4. RAG Engineering
+5. AI Agents Engineering
+6. MLOps para IA Generativa
 
 ¡Comenzamos!
 
