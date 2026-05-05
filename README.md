@@ -1,3 +1,5 @@
+**##🚨ESTE REPOSITORIO FUNCIONARÁ COMO REPOSITORIO PARA LAS CLASES Y LOS ALUMNOS🚨#**
+
 # **🚧 REPO PRIVADO - AI Engineering Online Mayo 2026 🚧**  
 
 ![LogoTB](logo.png)
