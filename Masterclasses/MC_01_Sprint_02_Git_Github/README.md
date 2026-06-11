@@ -26,3 +26,17 @@ Recorrido completo por Git y GitHub, desde los conceptos básicos hasta el flujo
 * Colaboración en GitHub: Pull Requests, forks e Issues
 * Flujo de trabajo profesional (Git Flow) y Conventional Commits
 * Ejercicios prácticos integradores
+
+---
+
+### 📖 Guía interactiva para alumnes
+
+🔗 [Abrir guía](./guia_git_alumnos.html)
+
+Guía web de referencia con todo el contenido de la masterclass: conceptos, comandos, ramas, flujos de trabajo, buenas prácticas y ejercicios.
+
+**¿Qué aprenderás?**
+
+* Lo mismo que en el notebook, en formato navegable con tabla de contenidos
+* Bloques de código copiables y referencia rápida de comandos
+* Ejercicios prácticos paso a paso
